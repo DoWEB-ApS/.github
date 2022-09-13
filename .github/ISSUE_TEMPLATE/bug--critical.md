@@ -1,16 +1,19 @@
 ---
 name: 'Bug: Critical'
-about: Create a report to help us improve
+about: Use this if the program is not working at all, or if core functionality isn't
+  working.
 title: ''
-labels: ''
+labels: 'Bug: Critical'
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of the bug here.
+**Bug Description**
+Replace this line with a clear and concise description of the bug.
 
 **To Reproduce**
+Replace these lines with steps to reproduce the behaviour.
+
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
@@ -18,18 +21,20 @@ Steps to reproduce the behavior:
 4. See error
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+Replace this line with a clear and concise description of what you expected to happen.
 
 **Screenshots**
-Add screenshots to help explain your problem.
+Replace this line with screenshots to help explain your problem.
 
 **Operating System and Browser (please complete the following information):**
+Replace these lines with:
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
 **Device (please complete the following information):**
+Replace these lines with:
  - Device: [e.g. iPhone6]
 
 **Additional context**
-Add any other context about the problem here.
+Replace these lines with any other context about the problem here.
