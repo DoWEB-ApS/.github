@@ -1,6 +1,8 @@
 ---
 name: 'Bug: Not Critical'
-about: Create a report to help us improve
+about: 'The program produces an error, it crashes, it times out, or it doesn''t respond,
+  but in a way that is not business critical. The less time sensitive version of Bug:
+  Critical.'
 title: ''
 labels: ''
 assignees: ''

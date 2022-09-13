@@ -2,9 +2,9 @@
 name: 'Bug: Critical'
 about: Use this if the program is not working at all, or if core functionality isn't
   working.
-title: ''
+title: CRITICAL BUG
 labels: 'Bug: Critical'
-assignees: ''
+assignees: dennis2848, madsto
 
 ---
 
